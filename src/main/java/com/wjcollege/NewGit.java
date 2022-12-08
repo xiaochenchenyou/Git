@@ -14,6 +14,7 @@ public class NewGit {
         System.out.println("hello hot-fix");
 
         System.out.println("new push");
+        System.out.println("new pull");
 
     }
 }
